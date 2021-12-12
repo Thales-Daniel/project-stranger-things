@@ -27,3 +27,5 @@
 
 *Use o comando git checkout backend
 *Caso queira rodar localmente, Use o comando npm start
+
+*OBS: a primeira vez utilizada, pode demorar alguns segundos pois o projeto esta dormindo no deploy do heroku!!
