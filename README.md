@@ -14,16 +14,12 @@
 
   <img src="./Captura de tela de 2021-12-11 22-48-25.jpg"/>
   <img src="./Captura de tela de 2021-12-11 22-49-04.jpg"/>
-  <p>
     O que foi utilizado!
     <ul>
       <li>Node</li>
       <li>Heroku</li>
       <li>PM2</li>
     </ul>
-
-  </p>
-
   <p>
     Como rodar o projeto localmente!
 
