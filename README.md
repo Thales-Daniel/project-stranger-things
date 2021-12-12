@@ -3,8 +3,8 @@
   <div>
   <p> O projeto tem como objetivo principal por em prática o conteúdo aprendido pela <a href="https://www.betrybe.com/" style ="color: black;">Trybe</a> sobre deploy, nos mostra como funciona as variáveis de ambiente e nos faz por nosso primeiro deploy no ar.</p>
 
-  <img src="./Captura de tela de 2021-12-11 22-48-25.jpg"/>
-  <img src="./Captura de tela de 2021-12-11 22-49-04.jpg"/>
+  <img src="./imagens/inicial.jpg"/>
+  <img src="./imagens/final.jpg"/>
   <p>
     O que foi utilizado!
     <ul>
