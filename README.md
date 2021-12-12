@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
+
   <h1> Boas vindas ao repositório do projeto Stranger things!</h1>
   
   <div>
@@ -21,14 +13,14 @@
       <li>PM2</li>
     </ul>
   <p>
-    Como rodar o projeto localmente!
+    Como rodar o projeto localmente!</p>
 
     <ul>
       <li>Faça o clone do repositório</li>
       <li>Rode o comando npm install</li>
       <li>Inicialize o projeto em um servidor local com npm start</li>
     </ul> 
-  </p>
+
   </div> 
   
 </body>
