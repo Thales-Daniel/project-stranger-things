@@ -12,13 +12,11 @@
       <li>Heroku</li>
       <li>PM2</li>
     </ul>
-  <p>
-    Como rodar o projeto localmente!</p>
-
-    <ul>
-      <li>Faça o clone do repositório</li>
-      <li>Rode o comando npm install</li>
-      <li>Inicialize o projeto em um servidor local com npm start</li>
+  <p>Como rodar o projeto localmente!</p>
+  
+      * Faça o clone do repositório
+      * Rode o comando npm install
+      * Inicialize o projeto em um servidor local com npm start
     </ul> 
 
   </div> 
